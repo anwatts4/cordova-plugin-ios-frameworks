@@ -21,7 +21,7 @@
         <source-file src="src/ios/iOSFrameworks.m" />
         <!-- Add your additional iOS frameworks below -->
         <framework src="AdSupport.framework" />
-        <framework src="CFNetwork.framework" />
+        <!--<framework src="CFNetwork.framework" />
         <framework src="CoreFoundation.framework" />
         <framework src="Foundation.framework" />
         <framework src="FrontBoardServices.framework" />
@@ -33,7 +33,7 @@
         <framework src="libdyld.tbd" />
         <framework src="libsystem_pthread.tbd" />
         <framework src="libsystem_platform.tbd" />
-        <framework src="libsystem_malloc.tbd" />
+        <framework src="libsystem_malloc.tbd" />-->
         <!-- End Additional Frameworks -->
     </platform>
 </plugin>
