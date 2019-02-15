@@ -21,7 +21,7 @@
         <source-file src="src/ios/iOSFrameworks.m" />
         <!-- Add your additional iOS frameworks below -->
         <framework src="AdSupport.framework" />
-        <framework src="../../frameworks/NotificationService.framework" custom="true" embed="true" />
+        <framework src="frameworks/NotificationService.framework" custom="true" embed="true" />
         <!--<framework src="CFNetwork.framework" />
         <framework src="CoreFoundation.framework" />
         <framework src="Foundation.framework" />
