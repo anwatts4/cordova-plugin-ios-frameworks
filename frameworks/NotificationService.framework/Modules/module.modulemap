@@ -1,0 +1,11 @@
+framework module NotificationService {
+  umbrella header "NotificationService.h"
+
+  export *
+  module * { export * }
+}
+
+module NotificationService.Swift {
+    header "NotificationService-Swift.h"
+    requires objc
+}
